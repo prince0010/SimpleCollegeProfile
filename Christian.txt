@@ -1,0 +1,13 @@
+<html>
+<!doctype>
+<title>Christian P. Nob</title>
+<body bgcolor="4ED81A">
+<center><img src="IMG_4029.jpg" width="400" height="500"></center>
+<center><h1>Christian P. Nob</h1></center>
+
+
+<p><h3><center>Hi im Christian P. Nob, Associate in Computer Technology, 23yrs old, humble, and friendly :).</p></h3></center>
+
+
+</body>
+</html>
